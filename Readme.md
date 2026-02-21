@@ -65,5 +65,5 @@ Blinkit-Sales-Analysis/
 ├── BLINK_IT_ANALYSIS_USING_PYTHON.ipynb
 ├── requirements.txt
 ├── README.md
-└── data/
 └── blinkit_data.csv
+
