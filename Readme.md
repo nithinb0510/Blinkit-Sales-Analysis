@@ -57,13 +57,4 @@ The goal is to identify trends and patterns that can support data-driven busines
 - Certain item types dominate total sales.
 - Sales performance varies significantly by outlet establishment year.
 
----
-
-📂 Project Structure
-Blinkit-Sales-Analysis/
-│
-├── BLINK_IT_ANALYSIS_USING_PYTHON.ipynb
-├── requirements.txt
-├── README.md
-└── blinkit_data.csv
 
